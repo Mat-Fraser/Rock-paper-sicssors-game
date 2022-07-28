@@ -1,6 +1,4 @@
 
-# Project Title
-
 # Rock-paper-sicssors-game
 
 ## Description
